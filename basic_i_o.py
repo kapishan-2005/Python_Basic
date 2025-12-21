@@ -42,3 +42,33 @@
 # result = a**2 + b**2 + 2*a*b
 # print("The result is:", result)
 
+# num = int(input("Enter a number: "))
+# unit_place = num % 10
+# print("Unit place number is:", unit_place)
+
+# num = int(input("Enter a number: "))
+# tenth_place = (num // 10) % 10
+# print("10th place number is:", tenth_place)
+
+# str1="Hello World"
+# str2="Hello World"
+# print(str1 == str2)
+
+# print("hello" > "apple")
+
+# text = "Hello World"
+# print(text.lower())
+# print(text.upper())
+# print(text.capitalize())
+# print(text.title())
+
+# print(text.index("W"))
+# print(text.count("l"))
+# print(text.replace("World", "There"))
+
+# str3="Welcome to Python Programming"
+# print(str3.find("Python"))
+# print(str3.strip())
+# print(str3.split(" "))
+
+
